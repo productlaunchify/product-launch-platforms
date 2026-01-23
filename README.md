@@ -1,4 +1,4 @@
-# Product Launch Platforms for Startups
+# Product Launch Platforms
 
 Useful for founders, indie makers, and startups preparing for launch.
 A curated list of **product launch platforms, communities, and directories** where you can launch, promote, and showcase your startup, product, or side project.
