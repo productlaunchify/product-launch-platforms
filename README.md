@@ -1,14 +1,14 @@
 # Product Launch Platforms for Startups
 
 Useful for founders, indie makers, and startups preparing for launch.
-A curated list of **product launch platforms, communities, and directories** to launch, promote, and showcase your startup, product, or side project.
+A curated list of **product launch platforms, communities, and directories** where you can launch, promote, and showcase your startup, product, or side project.
 
 ---
 
 ## General Launch Platforms
 
 - [Product Hunt](https://www.producthunt.com) – The go-to platform for launching tech products and startups.
-- [Product Launchify](https://www.productlaunchify.com) – A Product Hunt–style platform for launching and discovering tech products.
+- [Product Launchify](https://www.productlaunchify.com) – A modern Product Hunt–style platform for launching and discovering tech products, focused on indie makers and early-stage startups.
 - [BetaList](https://betalist.com) – Launch your startup to get early feedback from early adopters.
 - [Betapage](https://betapage.co) – Discover and launch new startups daily.
 - [StartupBase](https://startupbase.io) – Share your startup and connect with makers.
@@ -73,9 +73,9 @@ A curated list of **product launch platforms, communities, and directories** to 
 
 ## Startup & Tool Directories (Visibility & Backlinks)
 
-> These are especially useful for SEO, backlinks, and discoverability.
+> These platforms are especially useful for SEO, backlinks, and discoverability.
 
-- [Best Directories](https://bestdirectories.org/) – List of startup and product directories.
+- [Best Directories](https://bestdirectories.org/) – Curated list of startup and product directories.
 - [Startup Fame (Open Launch)](https://startupfa.me/s/open-launch) – Product listings and startup discovery.
 - [Findly Tools (Open Launch)](https://findly.tools/open-launch) – Tool discovery and backlink listings.
 - [AIWith.me (Open Launch)](https://aiwith.me/tools/open-launch-com/) – AI and tool showcase platform.
@@ -100,6 +100,15 @@ Open a [pull request](https://github.com/productlaunchify/product-launch-platfor
 
 ---
 
-## 📄 License
+## Maintained by
+
+This repository is maintained by the team behind
+**[Product Launchify](https://www.productlaunchify.com)** — a platform for launching and discovering new tech products.
+
+If you're launching a product, consider submitting it to Product Launchify.
+
+---
+
+## License
 
 [MIT](LICENSE)
