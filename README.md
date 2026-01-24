@@ -15,6 +15,7 @@ A curated list of **product launch platforms, communities, and directories** whe
 - [Launching Next](https://www.launchingnext.com) – List your project for free exposure.
 - [Open Launch](https://open-launch.com/) – Open-source alternative to Product Hunt.
 - [PeerPush](https://peerpush.net/) – Get instant visibility for your product and reach early adopters.
+- [DevHunt](https://devhunt.org/) – Developer-focused platform for launching and discovering tech products.
 
 ---
 
