@@ -28,6 +28,12 @@ A curated list of **product launch platforms, communities, and directories** whe
 
 ---
 
+## Deal & Marketplace-Based Launch Platforms
+
+- [AppSumo](https://appsumo.com/) – Marketplace for launching products via lifetime deals, offering one-time purchase prices to entrepreneurs, startups, and SMBs.
+
+---
+
 ## Reddit Communities (Launch, Marketing & Growth)
 
 > Follow subreddit rules carefully — value-first posts perform best.
