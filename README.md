@@ -77,9 +77,9 @@ A curated list of **product launch platforms, communities, and directories** whe
 > These platforms are especially useful for SEO, backlinks, and discoverability.
 
 - [Best Directories](https://bestdirectories.org/) – Curated list of startup and product directories.
-- [Startup Fame (Open Launch)](https://startupfa.me/s/open-launch) – Product listings and startup discovery.
-- [Findly Tools (Open Launch)](https://findly.tools/open-launch) – Tool discovery and backlink listings.
-- [AIWith.me (Open Launch)](https://aiwith.me/tools/open-launch-com/) – AI and tool showcase platform.
+- [Startup Fame](https://startupfa.me) – Product listings and startup discovery.
+- [Findly Tools](https://findly.tools) – Tool discovery and backlink listings.
+- [AIWith.me](https://aiwith.me) – AI and tool showcase platform.
 
 ---
 
