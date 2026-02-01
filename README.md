@@ -8,7 +8,7 @@ A curated list of **product launch platforms, communities, and directories** whe
 ## General Launch Platforms
 
 - [Product Hunt](https://www.producthunt.com) – The go-to platform for launching tech products and startups.
-- [Product Launchify](https://www.productlaunchify.com) – A modern Product Hunt–style platform for launching and discovering tech products, focused on indie makers and early-stage startups.
+- [Product Launchify](https://www.productlaunchify.com) – A community-driven product launch platform for launching and discovering tech products.
 - [BetaList](https://betalist.com) – Launch your startup to get early feedback from early adopters.
 - [Betapage](https://betapage.co) – Discover and launch new startups daily.
 - [StartupBase](https://startupbase.io) – Share your startup and connect with makers.
