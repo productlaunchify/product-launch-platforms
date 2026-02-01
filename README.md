@@ -16,7 +16,8 @@ A curated list of **product launch platforms, communities, and directories** whe
 - [Open Launch](https://open-launch.com/) – Open-source alternative to Product Hunt.
 - [PeerPush](https://peerpush.net/) – Get instant visibility for your product and reach early adopters.
 - [DevHunt](https://devhunt.org/) – Developer-focused platform for launching and discovering tech products.
-
+- [TinyLaunch](https://www.tinylaunch.com/) – A lightweight product launch and discovery platform focused on indie makers and early-stage products.
+  
 ---
 
 ## Indie Maker Communities
