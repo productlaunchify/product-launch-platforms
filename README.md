@@ -104,8 +104,6 @@ A curated list of **product launch platforms, communities, and directories** whe
 Contributions are welcome!
 Open a [pull request](https://github.com/productlaunchify/product-launch-platforms/pulls) or an [issue](https://github.com/productlaunchify/product-launch-platforms/issues).
 
-> _Disclaimer: This list is for discovery purposes only. Inclusion does not imply endorsement._
-
 ---
 
 ## Maintained by
