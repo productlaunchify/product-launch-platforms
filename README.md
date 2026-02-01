@@ -17,7 +17,22 @@ A curated list of **product launch platforms, communities, and directories** whe
 - [PeerPush](https://peerpush.net/) – Get instant visibility for your product and reach early adopters.
 - [DevHunt](https://devhunt.org/) – Developer-focused platform for launching and discovering tech products.
 - [TinyLaunch](https://www.tinylaunch.com/) – A lightweight product launch and discovery platform focused on indie makers and early-stage products.
-  
+
+---
+
+## AI & Tool-Focused Launch Directories
+
+- [Altern](https://altern.ai) – AI product directory for makers.
+- [AI Directory](https://aidirectory.wiki) – Curated list of AI tools.
+- [AI Dir](https://aidir.wiki) – AI tools directory and discovery platform.
+- [uNeed (You Need Best)](https://uneed.best) – Discover and share AI tools.
+- [There’s An AI For That](https://theresanai.com) – Submit your AI product for discovery.
+- [Futurepedia](https://futurepedia.wiki) – AI tools aggregator with launch listings.
+- [Productivity Directory](https://productivity.directory) – Discover productivity tools.
+- [Toolkitly](https://www.toolkitly.com) – Platform for tech tool discussions and discoveries.
+- [MagicBox Tools](https://magicbox.tools/) – Curated tools and startup products.
+- [Twelve Tools](https://twelve.tools/) – Directory of useful tools for founders and builders.
+
 ---
 
 ## Indie Maker Communities
@@ -52,21 +67,6 @@ A curated list of **product launch platforms, communities, and directories** whe
 
 - [Hacker News – Show HN](https://news.ycombinator.com/show) – Share your product with the Hacker News community.
 - [Lobsters](https://lobste.rs) – Developer-focused product and tech news (invite-only).
-
----
-
-## AI & Tool-Focused Launch Directories
-
-- [Altern](https://altern.ai) – AI product directory for makers.
-- [AI Directory](https://aidirectory.wiki) – Curated list of AI tools.
-- [AI Dir](https://aidir.wiki) – AI tools directory and discovery platform.
-- [uNeed (You Need Best)](https://uneed.best) – Discover and share AI tools.
-- [There’s An AI For That](https://theresanai.com) – Submit your AI product for discovery.
-- [Futurepedia](https://futurepedia.wiki) – AI tools aggregator with launch listings.
-- [Productivity Directory](https://productivity.directory) – Discover productivity tools.
-- [Toolkitly](https://www.toolkitly.com) – Platform for tech tool discussions and discoveries.
-- [MagicBox Tools](https://magicbox.tools/) – Curated tools and startup products.
-- [Twelve Tools](https://twelve.tools/) – Directory of useful tools for founders and builders.
 
 ---
 
