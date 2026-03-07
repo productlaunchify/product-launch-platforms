@@ -1,4 +1,4 @@
-# Best Product Launch Platforms
+# Top Platforms to Launch Your Tech Product
 
 A curated list of **product launch platforms, communities, and directories** where you can launch, promote, and showcase your startup, product, or side project. Useful for founders, indie makers, and startups preparing for launch.
 
