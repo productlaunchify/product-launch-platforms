@@ -39,6 +39,7 @@ A curated list of **product launch platforms, communities, and directories** whe
 - [Toolkitly](https://www.toolkitly.com) – Platform for tech tool discussions and discoveries.
 - [MagicBox Tools](https://magicbox.tools/) – Curated tools and startup products.
 - [Twelve Tools](https://twelve.tools/) – Directory of useful tools for founders and builders.
+- [AIWget](https://aiwget.com) – Curated directory for discovering AI agents, workflow automation tools, and creative AI products.
 - [AISOTools](https://aisotools.com) – AI tools directory with a free listing plus AI-search visibility monitoring, so makers can see whether ChatGPT and Perplexity actually recommend their tool.
 
 ---
