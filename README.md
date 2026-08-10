@@ -2,8 +2,6 @@
 
 A curated list of **product launch platforms, communities, and directories** where you can launch, promote, and showcase your startup, product, or side project. Useful for founders, indie makers, and startups preparing for launch.
 
----
-
 ## General Launch Platforms
 
 - [Product Hunt](https://www.producthunt.com) – The go-to platform for launching tech products and startups.
@@ -23,8 +21,6 @@ A curated list of **product launch platforms, communities, and directories** whe
 - [EarlyHunt](https://earlyhunt.com) – A launch platform focused on early-stage startups and getting initial traction.
 - [MakerHunt](https://makerhunt.io) – A curated space for makers to launch and explore new products.
 - [SideHunt](https://sidehunt.io) – A discovery platform for side projects and indie hacker creations.
-
----
 - [Nick Launches](https://nicklaunches.com/) - Launch platform for builders, AI startups, and SaaS founders to get discovered and earn a permanent dofollow backlink.
 
 ## AI & Tool-Focused Launch Directories
@@ -42,8 +38,7 @@ A curated list of **product launch platforms, communities, and directories** whe
 - [AIWget](https://aiwget.com) – Curated directory for discovering AI agents, workflow automation tools, and creative AI products.
 - [AISOTools](https://aisotools.com) – AI tools directory with a free listing plus AI-search visibility monitoring, so makers can see whether ChatGPT and Perplexity actually recommend their tool.
 - [The Agents Index](https://theagentsindex.com) – Researched, quality-gated directory of AI agents and agentic tools, with pricing, verdicts, and comparisons for each listing.
-
----
+- [CitedIndex](https://citedindex.com) – Researched, quality-gated directory of AI-visibility & GEO tools: the tools that measure and improve how ChatGPT, Perplexity, Gemini and AI Overviews see and cite your brand.
 
 ## Indie Maker Communities
 
@@ -52,13 +47,9 @@ A curated list of **product launch platforms, communities, and directories** whe
 - [WIP](https://wip.co) – Work on your ideas and get noticed by fellow makers.
 - [Side Project Stack](https://sideprojectstack.com) – Showcase your product and tech stack.
 
----
-
 ## Deal & Marketplace-Based Launch Platforms
 
 - [AppSumo](https://appsumo.com/) – Marketplace for launching products via lifetime deals, offering one-time purchase prices to entrepreneurs, startups, and SMBs.
-
----
 
 ## Reddit Communities (Launch, Marketing & Growth)
 
@@ -71,14 +62,10 @@ A curated list of **product launch platforms, communities, and directories** whe
 - [/r/ProductMarketing](https://www.reddit.com/r/ProductMarketing/) – Go-to-market and positioning discussions.
 - [/r/new_product_launch](https://www.reddit.com/r/new_product_launch/) – Smaller community focused on new launches.
 
----
-
 ## Showcasing to Tech Audiences
 
 - [Hacker News – Show HN](https://news.ycombinator.com/show) – Share your product with the Hacker News community.
 - [Lobsters](https://lobste.rs) – Developer-focused product and tech news (invite-only).
-
----
 
 ## Niche or Regional Platforms
 
@@ -86,8 +73,6 @@ A curated list of **product launch platforms, communities, and directories** whe
 - [Side Projectors](https://www.sideprojectors.com) – Promote or sell your side project.
 - [Remote Tools](https://www.remote.tools) – Tools focused on remote teams and distributed work.
 - [ToolFinder](https://toolfinder.wiki) – Browse productivity and SaaS tools.
-
----
 
 ## Startup & Tool Directories (Visibility & Backlinks)
 
@@ -100,8 +85,6 @@ A curated list of **product launch platforms, communities, and directories** whe
 - [SaaSCity](https://saascity.io) – Gamified SaaS directory where every listing becomes a building on a live isometric city map.
 - [Mydentify](https://mydentify.com) – Goal-based product discovery with reviewed listings and a researched launch-directory catalog.
 
----
-
 ## Launch Tools
 
 - [LaunchCaster](https://launchcaster.xyz) – Web3-native product launches.
@@ -109,14 +92,10 @@ A curated list of **product launch platforms, communities, and directories** whe
 - [Substack](https://substack.com) – Build an audience and launch via newsletter.
 - [Startup Tools List](https://startuptoolslist.com) – Tools to help launch and grow startups.
 
----
-
 ## Contributions
 
 Contributions are welcome!
 Open a [pull request](https://github.com/productlaunchify/product-launch-platforms/pulls) or an [issue](https://github.com/productlaunchify/product-launch-platforms/issues).
-
----
 
 ## Maintained by
 
@@ -124,8 +103,6 @@ This repository is maintained by the team behind
 **[Product Launchify](https://www.productlaunchify.com)** — a platform for launching and discovering new tech products.
 
 If you're launching a product, consider submitting it to Product Launchify.
-
----
 
 ## License
 
