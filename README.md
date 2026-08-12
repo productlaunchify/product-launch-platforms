@@ -8,7 +8,6 @@ A curated list of **product launch platforms, communities, and directories** whe
 - [Product Launchify](https://www.productlaunchify.com) – A community-driven product launch platform for launching and discovering tech products.
 - [Go Publicly](https://www.go-publicly.com) - A Product Hunt Alternative for Indie Hackers and Solopreneurs (SaaS and Tech Products).
 - [BetaList](https://betalist.com) – Launch your startup to get early feedback from early adopters.
-- [Betapage](https://betapage.co) – Discover and launch new startups daily.
 - [StartupBase](https://startupbase.io) – Share your startup and connect with makers.
 - [Launching Next](https://www.launchingnext.com) – List your project for free exposure.
 - [Open Launch](https://open-launch.com/) – Open-source alternative to Product Hunt.
@@ -29,8 +28,6 @@ A curated list of **product launch platforms, communities, and directories** whe
 - [AI Directory](https://aidirectory.wiki) – Curated list of AI tools.
 - [AI Dir](https://aidir.wiki) – AI tools directory and discovery platform.
 - [uNeed (You Need Best)](https://uneed.best) – Discover and share AI tools.
-- [There’s An AI For That](https://theresanai.com) – Submit your AI product for discovery.
-- [Futurepedia](https://futurepedia.wiki) – AI tools aggregator with launch listings.
 - [Productivity Directory](https://productivity.directory) – Discover productivity tools.
 - [Toolkitly](https://www.toolkitly.com) – Platform for tech tool discussions and discoveries.
 - [MagicBox Tools](https://magicbox.tools/) – Curated tools and startup products.
@@ -49,9 +46,7 @@ A curated list of **product launch platforms, communities, and directories** whe
 ## Indie Maker Communities
 
 - [Indie Hackers](https://www.indiehackers.com/products) – Share your product, get feedback, and join a founder community.
-- [Makerlog](https://getmakerlog.com) – Build in public with a supportive maker community.
 - [WIP](https://wip.co) – Work on your ideas and get noticed by fellow makers.
-- [Side Project Stack](https://sideprojectstack.com) – Showcase your product and tech stack.
 
 ## Deal & Marketplace-Based Launch Platforms
 
@@ -77,12 +72,10 @@ A curated list of **product launch platforms, communities, and directories** whe
 
 - [Startuplist Africa](https://startuplist.africa) – Discover and launch African startups.
 - [Side Projectors](https://www.sideprojectors.com) – Promote or sell your side project.
-- [Remote Tools](https://www.remote.tools) – Tools focused on remote teams and distributed work.
 - [ToolFinder](https://toolfinder.wiki) – Browse productivity and SaaS tools.
 
 ## Launch Tools
 
-- [LaunchCaster](https://launchcaster.xyz) – Web3-native product launches.
 - [Carrd](https://carrd.co) – Quickly create a landing page for your launch.
 - [Substack](https://substack.com) – Build an audience and launch via newsletter.
 - [Startup Tools List](https://startuptoolslist.com) – Tools to help launch and grow startups.
