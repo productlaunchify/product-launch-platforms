@@ -21,6 +21,7 @@ A curated list of **product launch platforms, communities, and directories** whe
 - [MakerHunt](https://makerhunt.io) – A curated space for makers to launch and explore new products.
 - [SideHunt](https://sidehunt.io) – A discovery platform for side projects and indie hacker creations.
 - [Nick Launches](https://nicklaunches.com/) - Launch platform for builders, AI startups, and SaaS founders to get discovered and earn a permanent dofollow backlink.
+- [LaunchOn.it](https://launchon.it) - Weekly product leaderboard and launch platform designed to give SaaS products real community exposure and lasting backlinks.
 
 ## AI & Tool-Focused Launch Directories
 
