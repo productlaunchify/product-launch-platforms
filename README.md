@@ -22,6 +22,7 @@ A curated list of **product launch platforms, communities, and directories** whe
 - [SideHunt](https://sidehunt.io) – A discovery platform for side projects and indie hacker creations.
 - [Nick Launches](https://nicklaunches.com/) - Launch platform for builders, AI startups, and SaaS founders to get discovered and earn a permanent dofollow backlink.
 - [LaunchOn.it](https://launchon.it) - Weekly product leaderboard and launch platform designed to give SaaS products real community exposure and lasting backlinks.
+- [Revmanic](https://revmanic.com) - A curated directory of Sales and GTM tools and platforms where visitors search for tools by the work they need to do. 
 
 ## AI & Tool-Focused Launch Directories
 
