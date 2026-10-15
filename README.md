@@ -24,6 +24,7 @@ A curated list of **product launch platforms, communities, and directories** whe
 - [LaunchOn.it](https://launchon.it) - Weekly product leaderboard and launch platform designed to give SaaS products real community exposure and lasting backlinks.
 - [Revmanic](https://revmanic.com) - A curated directory of Sales and GTM tools and platforms where visitors search for tools by the work they need to do. 
 - [Power CM Partners](https://partners.powercm-software.com/auth?mode=up&next=creators): Software creators publish partner campaigns so publishers can promote eligible products through tracked links.
+- [MEDIAPRONET](https://mediapronet.com/submit) - Launch directory where builders list newly shipped startups, tools, and online products; free listing with a homepage badge, or a one-time paid listing that goes live at once.
 
 ## AI & Tool-Focused Launch Directories
 
