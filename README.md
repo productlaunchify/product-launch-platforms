@@ -47,6 +47,8 @@ A curated list of **product launch platforms, communities, and directories** whe
 - [AIWith.me](https://aiwith.me) – AI and tool showcase platform.
 - [SaaSCity](https://saascity.io) – Gamified SaaS directory where every listing becomes a building on a live isometric city map.
 - [Mydentify](https://mydentify.com) – Goal-based product discovery with reviewed listings and a researched launch-directory catalog.
+- [AI Tools Radar](https://aitoolsradar.com/) – Multilingual AI product discovery directory with vendor submissions and source-linked editorial coverage; public browsing is free and vendor submissions are paid.
+
 
 ## Indie Maker Communities
 
