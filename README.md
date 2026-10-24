@@ -27,6 +27,7 @@ A curated list of **product launch platforms, communities, and directories** whe
 - [MEDIAPRONET](https://mediapronet.com/submit) - Launch directory where builders list newly shipped startups, tools, and online products; free listing with a homepage badge, or a one-time paid listing that goes live at once.
 - [CodeTrendy](https://codetrendy.com/submit) - Selective, hand-screened discovery directory for newly launched startups, SaaS tools, and indie products; free listing with a homepage badge, or a one-time paid listing that goes live at once.
 - [SitePatent](https://sitepatent.com/submit) - Launch directory where builders list newly launched startups, tools, and online products, each reviewed by a person before it goes live; free listing with a homepage badge, or a one-time paid listing that goes live at once.
+- [RadarMakers](https://radarmakers.com) - Free launch platform and directory for indie makers; every submission is reviewed by a person and launches are ranked by votes, ratings and helpful comments.
 
 ## AI & Tool-Focused Launch Directories
 
