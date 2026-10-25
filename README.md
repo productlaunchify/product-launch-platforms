@@ -90,6 +90,7 @@ A curated list of **product launch platforms, communities, and directories** whe
 - [Carrd](https://carrd.co) – Quickly create a landing page for your launch.
 - [Substack](https://substack.com) – Build an audience and launch via newsletter.
 - [Startup Tools List](https://startuptoolslist.com) – Tools to help launch and grow startups.
+- [Mode VC Founder Capital & Equity Workbench](https://modevc.com/tools/) – 18 free browser-side startup calculators for founders: SAFE & option pool dilution, 409A strike price, ISO vs. NSO AMT tax, Venture Debt vs. Equity, ESOP grants, and LLM/GPU unit economics.
 
 ## Contributions
 
