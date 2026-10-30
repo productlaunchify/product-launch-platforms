@@ -4,6 +4,7 @@ A curated list of **product launch platforms, communities, and directories** whe
 
 ## General Launch Platforms
 
+- [FoundrList](https://www.foundrlist.com) - Weekly launch cohorts for SaaS and AI tools, with a free launch option and a public leaderboard.
 - [Product Hunt](https://www.producthunt.com) – The go-to platform for launching tech products and startups.
 - [Product Launchify](https://www.productlaunchify.com) – A community-driven product launch platform for launching and discovering tech products.
 - [Go Publicly](https://www.go-publicly.com) - A Product Hunt Alternative for Indie Hackers and Solopreneurs (SaaS and Tech Products).
