@@ -87,6 +87,7 @@ A curated list of **product launch platforms, communities, and directories** whe
 - [Startuplist Africa](https://startuplist.africa) – Discover and launch African startups.
 - [Side Projectors](https://www.sideprojectors.com) – Promote or sell your side project.
 - [ToolFinder](https://toolfinder.wiki) – Browse productivity and SaaS tools.
+- [VibeShelf](https://vibeshelf.pages.dev) – Directory of apps built with AI coding tools (Cursor, Lovable, Claude Code, Bolt); free listing for makers.
 
 ## Launch Tools
 
