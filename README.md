@@ -90,6 +90,9 @@ A curated list of **product launch platforms, communities, and directories** whe
 - [ToolFinder](https://toolfinder.wiki) – Browse productivity and SaaS tools.
 - [VibeShelf](https://vibeshelf.pages.dev) – Directory of apps built with AI coding tools (Cursor, Lovable, Claude Code, Bolt); free listing for makers.
 - [CazaProducto](https://cazaproducto.com) – LATAM launch platform for makers, every free listing gets a dofollow backlink.
+- [PWA Directory](https://pwa.directory) – Curated directory of installable Progressive Web Apps; free listing for makers.
+- [WebApps Directory](https://webapps.directory) – Curated directory of web apps that run in the browser; free listing for makers.
+- [Boilerplates Directory](https://boilerplates.directory) – Compare SaaS starter kits and boilerplates by stack; free listing.
 
 ## Launch Tools
 
