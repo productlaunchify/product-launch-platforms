@@ -33,6 +33,7 @@ A curated list of **product launch platforms, communities, and directories** whe
 - [RoboDebut](https://robodebut.com/submit-with-a-coding-agent) - Directory of websites and startups where the maker's coding agent submits the listing through an API; free listing with a homepage badge, and each one is reviewed by a person before it goes live.
 - [LaunchWren](https://launchwren.com) - Free weekly launch platform for indie makers; makers swap feedback on each other's launches, and traffic stats are public.
 - [Launchef](https://launchef.com) - Free launch platform with live upvotes, reviews and weekly awards; no paid spots or boosts, and launches earn a dofollow backlink.
+- [BetaNeon](https://betaneon.com) - Product discovery directory for new apps, tools, and startups, covering launched products and public betas.
 
 ## AI & Tool-Focused Launch Directories
 
