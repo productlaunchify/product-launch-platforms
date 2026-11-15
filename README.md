@@ -34,6 +34,7 @@ A curated list of **product launch platforms, communities, and directories** whe
 - [LaunchWren](https://launchwren.com) - Free weekly launch platform for indie makers; makers swap feedback on each other's launches, and traffic stats are public.
 - [Launchef](https://launchef.com) - Free launch platform with live upvotes, reviews and weekly awards; no paid spots or boosts, and launches earn a dofollow backlink.
 - [BetaNeon](https://betaneon.com) - Product discovery directory for new apps, tools, and startups, covering launched products and public betas.
+- [Awesome Indie](https://awesomeindie.com) - Daily launch platform for indie makers, small teams, and solo founders; products are ranked by community upvotes, with weekly, monthly, and yearly leaderboards.
 
 ## AI & Tool-Focused Launch Directories
 
