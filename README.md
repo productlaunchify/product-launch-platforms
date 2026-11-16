@@ -35,6 +35,7 @@ A curated list of **product launch platforms, communities, and directories** whe
 - [Launchef](https://launchef.com) - Free launch platform with live upvotes, reviews and weekly awards; no paid spots or boosts, and launches earn a dofollow backlink.
 - [BetaNeon](https://betaneon.com) - Product discovery directory for new apps, tools, and startups, covering launched products and public betas.
 - [Awesome Indie](https://awesomeindie.com) - Daily launch platform for indie makers, small teams, and solo founders; products are ranked by community upvotes, with weekly, monthly, and yearly leaderboards.
+- [TheSaaSDir](https://thesaasdir.com) - Directory of SaaS and AI products; free listing in exchange for a badge, or a paid featured listing without one.
 
 ## AI & Tool-Focused Launch Directories
 
@@ -59,6 +60,7 @@ A curated list of **product launch platforms, communities, and directories** whe
 - [Mydentify](https://mydentify.com) – Goal-based product discovery with reviewed listings and a researched launch-directory catalog.
 - [AI Tools Radar](https://aitoolsradar.com/) – Multilingual AI product discovery directory with vendor submissions and source-linked editorial coverage; public browsing is free and vendor submissions are paid.
 - [Public Prompts](https://www.publicprompts.art/) – Reviewed AI tools directory with category and pricing filters, free prompt resources, and paid owner submissions.
+- [TheAIToolsDir](https://theaitoolsdir.com) - Directory of AI tools; free listing in exchange for a badge, or a paid featured listing without one.
 
 
 ## Indie Maker Communities
