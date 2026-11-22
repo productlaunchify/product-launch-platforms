@@ -62,6 +62,7 @@ A curated list of **product launch platforms, communities, and directories** whe
 - [Public Prompts](https://www.publicprompts.art/) – Reviewed AI tools directory with category and pricing filters, free prompt resources, and paid owner submissions.
 - [TheAIToolsDir](https://theaitoolsdir.com) - Directory of AI tools; free listing in exchange for a badge, or a paid featured listing without one.
 - [Add AI Directory](https://www.addaidirectory.com) - A curated directory of AI agents organized by category, with editorial reviews and free submissions.
+- [Toolradar](https://toolradar.com) – Software and AI tool directory with prices checked on vendor pages; free listing for makers.
 
 
 ## Indie Maker Communities
