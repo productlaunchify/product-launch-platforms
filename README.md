@@ -36,6 +36,7 @@ A curated list of **product launch platforms, communities, and directories** whe
 - [BetaNeon](https://betaneon.com) - Product discovery directory for new apps, tools, and startups, covering launched products and public betas.
 - [Awesome Indie](https://awesomeindie.com) - Daily launch platform for indie makers, small teams, and solo founders; products are ranked by community upvotes, with weekly, monthly, and yearly leaderboards.
 - [TheSaaSDir](https://thesaasdir.com) - Directory of SaaS and AI products; free listing in exchange for a badge, or a paid featured listing without one.
+- [The Useful Apps](https://theusefulmedia.com/apps/) - Launch site for Mac, iPhone, iPad and Apple Watch apps; free listing with its own page and share badge, or a 48-hour review for $29
 
 ## AI & Tool-Focused Launch Directories
 
