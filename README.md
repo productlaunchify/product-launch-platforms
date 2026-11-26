@@ -58,7 +58,7 @@ A curated list of **product launch platforms, communities, and directories** whe
 - [Findly Tools](https://findly.tools) – Tool discovery and backlink listings.
 - [AIWith.me](https://aiwith.me) – AI and tool showcase platform.
 - [SaaSCity](https://saascity.io) – Gamified SaaS directory where every listing becomes a building on a live isometric city map.
-- [Stepthrough](https://learn.ynteractive.com/for-makers) – Free AI tool listing + a free hands-on lesson for each tool.
+- [Stepthrough](https://ynteractive.com/learn) – Free AI tool listing + a free hands-on lesson for each tool.
 - [Mydentify](https://mydentify.com) – Goal-based product discovery with reviewed listings and a researched launch-directory catalog.
 - [AI Tools Radar](https://aitoolsradar.com/) – Multilingual AI product discovery directory with vendor submissions and source-linked editorial coverage; public browsing is free and vendor submissions are paid.
 - [Public Prompts](https://www.publicprompts.art/) – Reviewed AI tools directory with category and pricing filters, free prompt resources, and paid owner submissions.
