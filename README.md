@@ -38,6 +38,7 @@ A curated list of **product launch platforms, communities, and directories** whe
 - [TheSaaSDir](https://thesaasdir.com) - Directory of SaaS and AI products; free listing in exchange for a badge, or a paid featured listing without one.
 - [The Useful Apps](https://theusefulmedia.com/apps/) - Launch site for Mac, iPhone, iPad and Apple Watch apps; free listing with its own page and share badge, or a 48-hour review for $29
 - [Startup Buffer](https://startupbuffer.com/site/submit) - Startup directory with 33,000+ listings where founders submit new products for discovery; paid homepage features put a product in front of people browsing new startups.
+- [Push my project](https://pushmyproject.com) - Free directory for SaaS, apps and side projects; every listing gets its own product page in English and German and a dofollow backlink.
 
 ## AI & Tool-Focused Launch Directories
 
