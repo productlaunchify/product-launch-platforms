@@ -68,6 +68,7 @@ A curated list of **product launch platforms, communities, and directories** whe
 - [Add AI Directory](https://www.addaidirectory.com) - A curated directory of AI agents organized by category, with editorial reviews and free submissions.
 - [Toolradar](https://toolradar.com) – Software and AI tool directory with prices checked on vendor pages; free listing for makers.
 - [Free Trial AI Tools](https://www.freetrialaitools.top/) – AI tool directory with free-plan and trial details and free editorial submission for qualifying tools.
+- [ToolWorthy](https://www.toolworthy.ai/) – AI tools directory with editorial listings, category rankings, and guides. Public browsing is free. Vendor submission is paid only (Fast Listing $49 or Verified Listing $99, one-time); paid placement does not change rankings or scores.
 
 
 ## Indie Maker Communities
