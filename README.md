@@ -109,6 +109,7 @@ A curated list of **product launch platforms, communities, and directories** whe
 - [Boilerplates Directory](https://boilerplates.directory) – Compare SaaS starter kits and boilerplates by stack; free listing.
 - [KidCreatorTools](https://kidcreatortools.com) – Directory of AI tools for making children's content (story videos, kid voices, kids songs, picture books, coloring pages); free listing for makers.
 - [Checked](https://checked.tools) – Directory of AI tools with starting prices read from each tool's own pricing page; free listing for makers.
+- [AI Agency Search](https://aiagencysearch.com) – Directory of AI agencies searchable by service, US city and industry; free listing for agencies.
 
 ## Launch Tools
 
